@@ -8,7 +8,7 @@
 
 **ADB Desktop Tools is a modern, fast, and sleek Windows GUI application built with Python.** It simplifies Android debugging, file transfers, and system management by wrapping complex ADB commands into an intuitive, VS Code-inspired interface.
 
-### 📥 [Download Executable](https://github.com/yourusername/ADB-Tools-By-Elvan/releases/latest)
+### 📥 [Download Executable](https://github.com/Elvandito/ADB-Tools/releases/tag/v1.0.0)
 **No installation required. Just download the portable version and run it directly!**
 
 <br>
