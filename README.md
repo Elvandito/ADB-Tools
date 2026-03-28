@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ADB Desktop Tools - By Elvan
+# ADB Desktop Tools - By Elvan
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg)
@@ -8,36 +8,36 @@
 
 **ADB Desktop Tools is a modern, fast, and sleek Windows GUI application built with Python.** It simplifies Android debugging, file transfers, and system management by wrapping complex ADB commands into an intuitive, VS Code-inspired interface.
 
-### 📥 [Download Executable](https://github.com/Elvandito/ADB-Tools/releases/latest)
+### [Download Executable](https://github.com/Elvandito/ADB-Tools/releases/latest)
 **No installation required. Just download the portable version and run it directly!**
 
 <br>
 
-### 📸 Application Screenshot
-!**ADB Tools Screenshot**<img width="1919" height="1007" alt="Screenshot 2026-03-28 111237" src="https://github.com/user-attachments/assets/39069ac9-99a1-4a57-8d2e-deae5203487c" />
+### Application Screenshot
+<img width="1919" height="1007" alt="Screenshot 2026-03-28 111237" src="https://github.com/user-attachments/assets/39069ac9-99a1-4a57-8d2e-deae5203487c" />
 
 </div>
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 💻 Advanced Integrated Terminal
+### Advanced Integrated Terminal
 *   **Native Windows Execution:** Executes commands smoothly in the background without annoying console pop-ups (`CREATE_NO_WINDOW`).
 *   **Interactive ADB Shell:** Enter `adb shell` to seamlessly transition into your Android device's shell mode.
 *   **Smart Device Tracking:** Real-time polling to detect if your Android device is connected or disconnected.
 
-### 📁 Intuitive File Manager (Push/Pull)
+### Intuitive File Manager (Push/Pull)
 *   **ADB Push:** Easily select local files on your PC via a native file picker and send them directly to any path on your Android device (e.g., `/sdcard/Download/`).
 *   **ADB Pull:** Quickly fetch files from your Android device. Files are automatically saved to your PC's native Downloads folder for maximum convenience.
 
-### 📺 Advanced Scrcpy Integration
+### Advanced Scrcpy Integration
 *   **Seamless Switching:** Automatically terminates previous Scrcpy instances before launching a new one to prevent window clutter.
 *   **Multiple Modes:** Support for Audio+Video, No Audio, Audio Only, and Screen Off (Battery Saver) modes.
 
 ---
 
-## 🚀 Getting Started (Run from Source)
+## Getting Started (Run from Source)
 
 If you want to run the source code directly, follow these steps:
 
@@ -61,7 +61,7 @@ If you want to run the source code directly, follow these steps:
 
 ---
 
-## 📦 Building the Executable (.exe)
+## Building the Executable (.exe)
 
 To generate a standalone `.exe` portable file using `PyInstaller`, run the following commands in your terminal:
 
@@ -83,7 +83,7 @@ To generate a standalone `.exe` portable file using `PyInstaller`, run the follo
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -95,7 +95,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-## 📜 License
+## License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
