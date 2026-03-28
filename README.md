@@ -14,7 +14,7 @@
 <br>
 
 ### 📸 Application Screenshot
-![ADB Tools Screenshot](screenshot.png)
+!**ADB Tools Screenshot**<img width="1919" height="1007" alt="Screenshot 2026-03-28 111237" src="https://github.com/user-attachments/assets/39069ac9-99a1-4a57-8d2e-deae5203487c" />
 
 </div>
 
